@@ -1,0 +1,10 @@
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\bin\Debug\netcoreapp2.1\JsonToExcel.deps.json
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\bin\Debug\netcoreapp2.1\JsonToExcel.runtimeconfig.json
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\bin\Debug\netcoreapp2.1\JsonToExcel.runtimeconfig.dev.json
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\bin\Debug\netcoreapp2.1\JsonToExcel.dll
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\obj\Debug\netcoreapp2.1\JsonToExcel.csproj.CoreCompileInputs.cache
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\obj\Debug\netcoreapp2.1\JsonToExcel.AssemblyInfoInputs.cache
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\obj\Debug\netcoreapp2.1\JsonToExcel.AssemblyInfo.cs
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\bin\Debug\netcoreapp2.1\JsonToExcel.pdb
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\obj\Debug\netcoreapp2.1\JsonToExcel.dll
+C:\Users\KeithYang\source\repos\JsonToExcel\JsonToExcel\obj\Debug\netcoreapp2.1\JsonToExcel.pdb
